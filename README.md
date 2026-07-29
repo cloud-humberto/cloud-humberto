@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Humberto 👋
+### Cloud & Infrastructure Specialist
 
-<!--
-**cloud-humberto/cloud-humberto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I specialize in deploying, configuring, securing, and monitoring Linux servers in cloud environments.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack & Skills
+- **Operating Systems:** Linux (Ubuntu, Debian)
+- **Containerization & Web Servers:** Docker, Docker Compose, Nginx
+- **Security & SSL:** Let's Encrypt (Certbot), UFW Firewall, Fail2ban, SSH Hardening
+- **Cloud Platforms:** AWS, Oracle Cloud (OCI), Google Cloud, DigitalOcean
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📬 Freelance Services
+Available for server deployment, SSL configuration, security hardening, and troubleshooting.
