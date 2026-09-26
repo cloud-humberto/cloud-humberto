@@ -29,4 +29,5 @@ I build end-to-end web solutions, bridging modern backend development, cloud ser
 
 - **LinkedIn:** [Humberto Randon](https://br.linkedin.com/in/humberto-randon-17a065428)
 - **Email:** [randbendhum@gmail.com](mailto:randbendhum@gmail.com)
+
 *Open to remote web development roles, backend integrations, and cloud infrastructure projects.*
